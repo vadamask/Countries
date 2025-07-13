@@ -1,0 +1,61 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A an example control that runs a timer." : {
+
+    },
+    "Bottom %@" : {
+
+    },
+    "Favorites Countries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorite Countries"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Избранные Страны"
+          }
+        }
+      }
+    },
+    "Hello %@" : {
+
+    },
+    "L" : {
+
+    },
+    "Leading" : {
+
+    },
+    "Off" : {
+
+    },
+    "On" : {
+
+    },
+    "Start a timer" : {
+
+    },
+    "Start Timer" : {
+
+    },
+    "T %@" : {
+
+    },
+    "Timer" : {
+
+    },
+    "Timer is running" : {
+
+    },
+    "Trailing" : {
+
+    }
+  },
+  "version" : "1.0"
+}

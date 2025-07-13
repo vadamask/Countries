@@ -1,0 +1,9 @@
+//
+//  Debug.xcconfig
+//  Countries
+//
+//  Created by Вадим Шишков on 13.07.2025.
+//
+
+// MARK: API
+API_BASE_URL = https:/$()/restcountries.com/v3.1
